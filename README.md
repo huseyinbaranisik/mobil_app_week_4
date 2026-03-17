@@ -1,7 +1,5 @@
 # 🐾 Dijital Evcil Hayvan (Digital Pet App)
 
-> [!TIP]
-> **[📺 Uygulama Demo Videosunu İzle](https://youtube.com/shorts/kv0gGIet9II)**
 
 [![Uygulama Demosu](https://img.youtube.com/vi/kv0gGIet9II/0.jpg)](https://youtube.com/shorts/kv0gGIet9II)
 
@@ -46,6 +44,9 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 ## 📱 APK İndir
 
 Uygulamanın test edilebilir APK sürümüne [Releases](https://github.com/huseyinbaranisik/mobil_app_week_4/releases) sayfasından ulaşabilirsiniz.
+
+> [!TIP]
+> **[📺 Uygulama Demo Videosunu İzle](https://youtube.com/shorts/kv0gGIet9II)**
 
 ---
 Geliştiren: [Hüseyin Baran Işık](https://github.com/huseyinbaranisik)

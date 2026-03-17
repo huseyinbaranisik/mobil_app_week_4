@@ -1,8 +1,6 @@
 # 🐾 Dijital Evcil Hayvan (Digital Pet App)
 
 
-[![Uygulama Demosu](https://img.youtube.com/vi/kv0gGIet9II/0.jpg)](https://youtube.com/shorts/kv0gGIet9II)
-
 Bu proje, React Native ve Expo kullanılarak geliştirilmiş eğlenceli bir dijital evcil hayvan uygulamasıdır. Kullanıcılar evcil hayvanlarını besleyebilir, onlarla oyun oynayabilir ve gelişimlerini takip edebilir.
 
 ## ✨ Özellikler
@@ -47,6 +45,7 @@ Uygulamanın test edilebilir APK sürümüne [Releases](https://github.com/husey
 
 > [!TIP]
 > **[📺 Uygulama Demo Videosunu İzle](https://youtube.com/shorts/kv0gGIet9II)**
+> [![Uygulama Demosu](https://img.youtube.com/vi/kv0gGIet9II/0.jpg)](https://youtube.com/shorts/kv0gGIet9II)
 
 ---
 Geliştiren: [Hüseyin Baran Işık](https://github.com/huseyinbaranisik)

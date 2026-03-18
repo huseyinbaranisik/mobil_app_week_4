@@ -9,7 +9,6 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiş eğlenceli bir diji
 - **Evcil Hayvan Etkileşimi:** Besleme, oyun oynama ve uyutma mekanikleri.
 - **İstatistik Takibi:** Açlık, mutluluk ve enerji seviyelerinin gerçek zamanlı takibi.
 - **Seviye Sistemi:** Deneyim puanı kazanarak seviye atlama ve başarımlar (Achievements).
-- **Ses Efektleri:** Oyun içi etkileşimler için sesli geri bildirimler.
 - **Ayarlar:** Ses açma/kapama ve bildirim tercihleri.
 
 ## 🚀 Başlangıç
